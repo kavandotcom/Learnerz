@@ -50,12 +50,14 @@
 
 
         <TextView
+            android:id="@+id/noob_text_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="28dp"
             android:clickable="true"
             android:gravity="center_horizontal"
             android:text="NOOB"
+            android:onClick="NoobListener"
             android:textColor="@color/white"
             android:textSize="36sp"
             android:visibility="visible" />
@@ -77,12 +79,14 @@
 
 
         <TextView
+            android:id="@+id/midway_text_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="28dp"
             android:clickable="true"
             android:gravity="center_horizontal"
             android:text="MIDWAY"
+            android:onClick="midwayListener"
             android:textColor="@color/white"
             android:textSize="36sp"
             android:visibility="visible" />
@@ -103,10 +107,12 @@
 
 
         <TextView
+            android:id="@+id/pro_text_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="28dp"
             android:clickable="true"
+            android:onClick="proListener"
             android:gravity="center_horizontal"
             android:text="PRO"
             android:textColor="#FFFFFF"
