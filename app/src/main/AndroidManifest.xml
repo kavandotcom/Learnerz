@@ -14,7 +14,8 @@
         </activity>
         <activity
             android:name=".profile"
-            android:exported="true" ></activity>
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"></activity>
         <activity
             android:name=".Splashscreen"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
