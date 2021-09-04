@@ -139,6 +139,7 @@
                     android:layout_centerHorizontal="true"
                     android:backgroundTint="@color/grey"
                     android:text="Log Out"
+                    android:onClick="logout"
                     android:textColor="@color/headings" />
 
             </RelativeLayout>
