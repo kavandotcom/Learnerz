@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="register_password_et" type="id" />
+    <item name="register_confirmpassword_et" type="id" />
+    <item name="register_checkbox" type="id" />
+    <item name="button_register" type="id" />
+    <item name="signup_to_login" type="id" />
+</resources>
