@@ -16,9 +16,8 @@
 
         <SearchView
             android:id="@+id/Search_Bar"
-            android:layout_width="340dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:gravity="right"
             android:iconifiedByDefault="false"
             android:queryHint="Search Here "
             tools:ignore="MissingConstraints"
@@ -29,7 +28,9 @@
         <ImageButton
             android:layout_width="match_parent"
             android:layout_height="50dp"
-            android:src="@drawable/ic_baseline_person_24" />
+            android:src="@drawable/ic_baseline_person_24"
+            android:contentDescription="@string/todo"
+            android:onClick="profile"/>
 
     </LinearLayout>
    <LinearLayout
@@ -42,7 +43,8 @@
        <ListView
            android:layout_width="match_parent"
            android:layout_height="fill_parent"
-           android:layout_marginTop="10dp"/>
+           android:layout_marginTop="10dp"
+           android:id="@+id/myList"/>
    </LinearLayout>
 
 
