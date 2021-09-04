@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/circle.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/circle_border.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/custom_email_input.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/custom_input.xml" value="0.24351851851851852" />
         <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/grad.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/ic_baseline_category_24.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/drawable/profile_img.xml" value="0.24351851851851852" />
         <entry key="..\:/Users/ponnanna/AndroidStudioProjects/Learnerz/app/src/main/res/layout/activity_profile.xml" value="0.2" />
       </map>
     </option>
