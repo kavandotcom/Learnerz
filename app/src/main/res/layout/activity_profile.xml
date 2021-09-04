@@ -143,8 +143,6 @@
                     android:textColor="@color/headings" />
 
             </RelativeLayout>
-
-
         </LinearLayout>
 
     </RelativeLayout>
