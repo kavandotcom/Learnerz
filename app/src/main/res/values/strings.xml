@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Learnerz</string>
     <string name="todo">TODO</string>
+
+    /NOOB/
+    <string name="Id1noobweek1"><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Enroll</a></string>
+    <string name="Id1noobweek2"><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Enroll</a></string>
+    <string name="Id1noobweek3"><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Enroll</a></string>
+    <string name="Id1noobproject"><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Enroll</a></string>
 </resources>
