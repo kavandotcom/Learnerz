@@ -71,11 +71,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void logout(View view) {
-        auth.signOut();
-        Intent intent = new Intent(MainActivity.this,LoginActivity.class);
-        startActivity(intent);
-    }
+
 
 
     @Override
@@ -90,8 +86,9 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
     public void profile(View view) {
-        Intent intent =new Intent(MainActivity.this,profile.class);
+        Intent intent = new Intent(MainActivity.this , profile.class );
         startActivity(intent);
     }
 }
