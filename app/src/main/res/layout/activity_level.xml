@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/grad"
-    tools:context=".Level">
+    tools:context=".Level"
+    android:layout_margin="5dp">
 
     <TextView
         android:id="@+id/textView4"
@@ -21,8 +22,8 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="222dp"
-        android:layout_height="100dp"
+        android:layout_width="209dp"
+        android:layout_height="102dp"
         android:text="We all have to start somewhere so why not here"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
@@ -31,15 +32,15 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toEndOf="@+id/cardView"
         app:layout_constraintTop_toTopOf="@+id/cardView"
-        app:layout_constraintVertical_bias="0.48" />
+        app:layout_constraintVertical_bias="0.42" />
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:layout_marginStart="32dp"
-        android:layout_marginLeft="32dp"
-        android:layout_marginTop="80dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="64dp"
         android:background="#675C5C"
         android:foregroundGravity="center_horizontal"
         app:cardBackgroundColor="@color/black"
@@ -52,12 +53,12 @@
         <TextView
             android:id="@+id/noob_text_view"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="86dp"
             android:layout_marginTop="28dp"
             android:clickable="true"
-            android:gravity="center_horizontal"
-            android:text="NOOB"
+            android:gravity="center"
             android:onClick="NoobListener"
+            android:text="NOOB"
             android:textColor="@color/white"
             android:textSize="36sp"
             android:visibility="visible" />
@@ -69,8 +70,8 @@
         android:layout_height="150dp"
         android:layout_marginStart="228dp"
         android:layout_marginLeft="228dp"
-        android:layout_marginTop="288dp"
-        android:foregroundGravity="center_horizontal"
+        android:layout_marginTop="248dp"
+        android:foregroundGravity="center"
         app:cardBackgroundColor="@color/black"
         app:cardCornerRadius="75dp"
         app:cardPreventCornerOverlap="false"
@@ -81,12 +82,12 @@
         <TextView
             android:id="@+id/midway_text_view"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="95dp"
             android:layout_marginTop="28dp"
             android:clickable="true"
-            android:gravity="center_horizontal"
-            android:text="MIDWAY"
+            android:gravity="center"
             android:onClick="midwayListener"
+            android:text="MIDWAY"
             android:textColor="@color/white"
             android:textSize="36sp"
             android:visibility="visible" />
@@ -95,9 +96,9 @@
     <androidx.cardview.widget.CardView
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:layout_marginStart="56dp"
-        android:layout_marginLeft="56dp"
-        android:layout_marginBottom="88dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginLeft="28dp"
+        android:layout_marginBottom="76dp"
         android:foregroundGravity="center_horizontal"
         app:cardBackgroundColor="#000000"
         app:cardCornerRadius="75dp"
@@ -109,11 +110,11 @@
         <TextView
             android:id="@+id/pro_text_view"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="79dp"
             android:layout_marginTop="28dp"
             android:clickable="true"
+            android:gravity="center"
             android:onClick="proListener"
-            android:gravity="center_horizontal"
             android:text="PRO"
             android:textColor="#FFFFFF"
             android:textSize="36sp"
@@ -124,13 +125,15 @@
         android:id="@+id/textView"
         android:layout_width="213dp"
         android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
         android:text="You are almost there.Finish what you started KING"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.499" />
+        app:layout_constraintVertical_bias="0.482" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
