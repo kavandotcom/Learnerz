@@ -53,7 +53,8 @@ public class MainActivity extends AppCompatActivity {
         myList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Toast.makeText(MainActivity.this,"Link Not available",Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(MainActivity.this, Level.class );
+                startActivity(intent);
             }
         });
         mysearchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
