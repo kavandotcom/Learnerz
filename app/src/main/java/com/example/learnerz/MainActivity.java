@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 Intent intent = new Intent(MainActivity.this, Level.class );
                 intent.putExtra("Id", i);
+                intent.putExtra("Heading_in_levels", list.get(i));
                 startActivity(intent);
             }
         });
