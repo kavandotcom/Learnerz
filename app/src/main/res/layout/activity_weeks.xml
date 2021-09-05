@@ -21,9 +21,12 @@
             android:textColor="@color/white"
             android:background="@color/browser_actions_text_color"/>
         <TextView
+            android:id="@+id/heading_for_week_id"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:hint="course name"
+            android:layout_marginLeft="5dp"
+            android:textSize="20dp"
             android:textColor="@color/gradStart"/>
     </LinearLayout>
 
@@ -41,9 +44,11 @@
             android:layout_height="50dp"
             android:src="@drawable/week1" />
         <TextView
+            android:id="@+id/link1"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Links"
+            android:clickable="true"
+            android:hint="@string/link_not_available"
             android:layout_margin="5dp"/>
 
     </LinearLayout>
@@ -63,9 +68,10 @@
             android:layout_height="50dp"
             android:src="@drawable/week2" />
         <TextView
+            android:id="@+id/link2"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Links"
+            android:hint="@string/link_not_available"
             android:layout_margin="5dp"/>
 
     </LinearLayout>
@@ -83,9 +89,10 @@
             android:layout_height="50dp"
             android:src="@drawable/week3" />
         <TextView
+            android:id="@+id/link3"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Links"
+            android:hint="@string/link_not_available"
             android:layout_margin="5dp"/>
 
     </LinearLayout>

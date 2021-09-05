@@ -15,8 +15,10 @@
             android:id="@+id/headingInLevels"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:textSize="20dp"
             android:layout_marginBottom="10dp"
             android:gravity="center"
+            android:drawableBottom="@color/white"
             android:hint="Name" />
 
     </LinearLayout>
@@ -25,6 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        android:layout_margin="5dp"
         android:orientation="horizontal">
         <androidx.cardview.widget.CardView
             android:id="@+id/cardView"
@@ -39,6 +42,7 @@
                 android:gravity="center"
                 android:onClick="NoobListener"
                 android:text="NOOB"
+                android:background="@color/grey"
                 android:textColor="@color/black"
                 android:textSize="36sp"
                 android:visibility="visible" />
@@ -59,6 +63,7 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
+        android:layout_margin="5dp"
         android:orientation="horizontal">
 
 
@@ -70,7 +75,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginLeft="16dp"
             android:text="You are almost there.Finish what you started KING"
-            android:textColor="#FFFFFF"
+            android:textColor="#000000"
             android:textSize="24sp"/>
 
         <androidx.cardview.widget.CardView
@@ -88,8 +93,8 @@
                 android:gravity="center"
                 android:onClick="midwayListener"
                 android:text="MIDWAY"
-                android:textColor="@color/black"
-                android:background="@color/gradStart"
+                android:textColor="@color/white"
+                android:background="@color/grey"
                 android:textSize="30sp"
                 android:visibility="visible" />
         </androidx.cardview.widget.CardView>
@@ -101,6 +106,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
+        android:layout_margin="5dp"
+
         android:layout_weight="1">
 
         <androidx.cardview.widget.CardView
@@ -118,6 +125,7 @@
                 android:gravity="center"
                 android:onClick="proListener"
                 android:text="PRO"
+                android:background="@color/grey"
                 android:textColor="#000000"
                 android:textSize="36sp"
                 android:visibility="visible" />

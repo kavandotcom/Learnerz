@@ -2,9 +2,26 @@
     <string name="app_name">Learnerz</string>
     <string name="todo">TODO</string>
 
+    <string name="link_not_available">"Whoops!! links not available...."</string>
+    <string name="noob">"We all have to start somewhere so why not here"</string>
+    <string name="mid">"You are almost there.Finish what you started KING"</string>
+    <string name="pro">"Why be a KING when you can be a GOD. Claim it"</string>
+
     /NOOB/
-    <string name="Id1noobweek1"><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Enroll</a></string>
-    <string name="Id1noobweek2"><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Enroll</a></string>
-    <string name="Id1noobweek3"><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Enroll</a></string>
-    <string name="Id1noobproject"><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Enroll</a></string>
+    <string name="Id1noobweek1"><a href="https://www.udacity.com/course/android-basics-user-interface--ud834">Enroll</a></string>--!>
+    <string name="Id1noobweek2"><a href="https://classroom.udacity.com/courses/ud834/lessons/4027328704/concepts/216017e8-8a5c-4fc8-925d-f03df3618d0c">Building layouts part 1</a></string>
+    <string name="Id1noobweek3"><a href="https://classroom.udacity.com/courses/ud834/lessons/4330701752/concepts/43717794850923">Building layouts part 2</a></string>
+    <string name="Id1noobproject"><a href="https://classroom.udacity.com/courses/ud834/lessons/46e6b33a-0d6e-433d-9ac4-701a2156d584/concepts/c2c15e7a-8c5b-457b-ae2b-ba26f31558cb">Project</a></string>
+
+    /MIDWAY/
+    <string name="Id1Midwayweek1"><a href="https://www.udacity.com/course/android-basics-user-input--ud836">Enroll</a></string>--!>
+    <string name="Id1Midwayweek2"><a href="https://classroom.udacity.com/courses/ud836/lessons/4038208680/concepts/42837449970923">Making an app interactive part1</a></string>
+    <string name="Id1Midwayweek3"><a href="https://classroom.udacity.com/courses/ud836/lessons/4619208555/concepts/45760803710923">OOPS part 1</a></string>
+    <string name="Id1Midwayproject"><a href="https://classroom.udacity.com/courses/ud836/lessons/4584545214/concepts/45809704040923">Project</a></string>
+
+    /PRO/
+    <string name="Id1Proweek1"><a href="https://www.udacity.com/course/android-basics-data-storage--ud845">Enroll</a></string>--!>
+    <string name="Id1Proweek2"><a href="https://classroom.udacity.com/courses/ud845/lessons/a6950a5d-b0f0-4b2a-9992-63cfbdec4dff/concepts/aebd6716-d82b-4670-ad80-cca18a7b0ee1">Database Basics </a></string>
+    <string name="Id1Proweek3"><a href="https://classroom.udacity.com/courses/ud845/lessons/f5bb088f-6cc0-4e7d-9985-1418654bb141/concepts/3dd6bd8a-f5fc-49a0-9faf-8ae160334448">SQLite</a></string>
+    <string name="Id1Proproject"><a href="https://classroom.udacity.com/courses/ud845/lessons/6769161694239847/concepts/78222606250923">Project: Inventory app</a></string>
 </resources>
