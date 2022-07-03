@@ -4,7 +4,7 @@
   
   ## Aboout the Project
 
-//INTRODUCTION 
+### INTRODUCTION 
 
 
 LEARN  AS  THOUGH  YOU  WOULD  NEVER BE  ABLE TO MASTER IT ; 
@@ -24,11 +24,11 @@ PROVIDED BY US .
 
 
  ## Technologies used
-// Java, Firebase , Google services , Git, GitHub, Xml,
+### Java, Firebase , Google services , Git, GitHub, Xml,
 
 
 ## Steps for installation
-// Step 1: Open the link given below 
+   Step 1: Open the link given below 
    Step 2: Follow the basic steps shown on your phone to install 
    
    
