@@ -28,14 +28,14 @@ PROVIDED BY US .
 
 
 ## Steps for installation
-   ...Step 1: Open the link given below 
-   ...Step 2: Follow the basic steps shown on your phone to install 
+   * Step 1: Open the link given below 
+   * Step 2: Follow the basic steps shown on your phone to install 
    
    
    ## App/Web 
    
 
-    [APK download](https://github.com/kavandotcom/Learnerz/releases/download/v1.0/Learnerz-v1.1.apk)
+    (https://github.com/kavandotcom/Learnerz/releases/download/v1.0/Learnerz-v1.1.apk)
 
 
 ## Video Demo (Mandatory)
