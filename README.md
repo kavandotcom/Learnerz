@@ -2,7 +2,7 @@
    LEARNERZ APP       
    
   
-  ## Aboout the Project
+  ## About the Project
 
 ### INTRODUCTION 
 
@@ -28,24 +28,24 @@ PROVIDED BY US .
 
 
 ## Steps for installation
-   Step 1: Open the link given below 
-   Step 2: Follow the basic steps shown on your phone to install 
+   ...Step 1: Open the link given below 
+   ...Step 2: Follow the basic steps shown on your phone to install 
    
    
    ## App/Web 
    
 
-    //https://github.com/kavandotcom/Learnerz/releases/download/v1.0/Learnerz-v1.1.apk
+    [APK download](https://github.com/kavandotcom/Learnerz/releases/download/v1.0/Learnerz-v1.1.apk)
 
 
 ## Video Demo (Mandatory)
-// 
+
 
 https://user-images.githubusercontent.com/67471969/132122118-8cf08a0a-20b8-487b-a991-a51e3184bb79.mp4
 
 
 ## Screenshots (Mandatory)
-// 
+ 
 ![WhatsApp Image 2021-09-05 at 1 47 51 PM](https://user-images.githubusercontent.com/67471969/132122170-3d232120-cf44-43c8-b388-64ab3a687ba8.jpeg)
 ![WhatsApp Image 2021-09-05 at 1 47 52 PM (1)](https://user-images.githubusercontent.com/67471969/132122171-52888b27-8fe0-4ac6-b0bd-76bb6c51df9b.jpeg)
 ![WhatsApp Image 2021-09-05 at 1 47 52 PM (2)](https://user-images.githubusercontent.com/67471969/132122174-b3586405-1abd-4624-8cbe-37d3f74fce0f.jpeg)
